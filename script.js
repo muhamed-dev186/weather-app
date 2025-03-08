@@ -25,7 +25,7 @@ async function fetchData(url) {
   }
 }
 
-const apiKey = "8ea5f26053c37d9b5efb5251a1c2baf2";
+const apiKey = "b302479bed0fab041d03d9efc9c01f71";
 
 const apiWeather = "https://api.openweathermap.org/data/2.5/weather";
 
